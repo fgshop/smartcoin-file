@@ -17,8 +17,9 @@ https://github.com/fgshop/smartcoin-file
 * 기본 다운로드 URL: https://file.siaplay.kr/    
 * CDN 다운로드 URL:  https://cdn.jsdelivr.net/gh/fgshop/smartcoin-file@main/    
 
-100 MB 이상의 파일은 기본 다운로드 URL을 이용해주세요.     
-100 MB 미만의 파일은 CDN 다운로드 URL을 이용해주세요.    
+APK 파일이나 100 MB 이상의 파일은 기본 다운로드 URL을 이용해주세요.     
+ZIP 파일이나 100 MB 미만의 파일은 CDN 다운로드 URL을 이용해주세요.    
 
 에: https://cdn.jsdelivr.net/gh/fgshop/smartcoin-file@main/AI4U/AI4UWallet20230907_2.apk
+에: https://file.siaplay.kr/AI4U/AI4UWallet20230907_2.apk
 
