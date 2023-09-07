@@ -11,6 +11,7 @@ Document Root : /home/ubuntu/www-live/file.siaplay.kr
 
 https://github.com/fgshop/smartcoin-file
 
+apk 파일은 업로드가 않되는 경우가 있어 버전관리에서 제외합니다.
 
 ## 다운로드 링크
 
